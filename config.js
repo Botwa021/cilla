@@ -43,14 +43,14 @@ global.author = 'ℓααcηxz · вσт'
 global.thumb = 'https://telegra.ph/file/bfd54d9f55843341d7d30.jpg'
 
 //===> Apikey
-global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
-global.btc = 'Your_Key_Here'//Isi apikey di https://api.botcahx.live
+global.lann = 'TTSrFcKx' //isi apikey mu https://api.betabotz.org
+global.btc = 'NWvaNDcP'//Isi apikey di https://api.botcahx.live
 global.APIs = {   
   lann: 'https://api.betabotz.org',
   btc: 'https://api.botcahx.live'
 }
 global.APIKeys = { 
-  'https://api.betabotz.org': 'Your_Key' //isi apikey mu https://api.betabotz.org
+  'https://api.betabotz.org': 'TTSrFcKx' //isi apikey mu https://api.betabotz.org
 }
 
 global.multiplier = 45
