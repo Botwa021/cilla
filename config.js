@@ -13,34 +13,34 @@
 // Betabotz = digunakan hampir di semua fitur kecuali linkshort
 // Botcahx  = digunakan untuk linkshort saja
 
-global.owner = ['6285842647866']  
-global.mods = ['6285842647866'] 
-global.prems = ['6285842647866']
-global.nameowner = 'Lann'
-global.numberowner = '6285842647866' 
-global.mail = 'fxacbapi.my.id@gmail.com' 
-global.dana = '6281395861695'
-global.pulsa = '6281395861695'
-global.gopay = '6281395861695'
-global.namebot = 'BETABOTZ-MD'
-global.gc = 'https://chat.whatsapp.com/G4f1fTpz9zL4EH3FyIcaPR'
-global.web = 'https://github.com/BOTCAHX'
-global.instagram = 'https://instagram.com/prm2.0'
-global.wm = 'Beta BOT-MD'
+global.owner = ['6287848290396']  
+global.mods = ['6287848290396'] 
+global.prems = ['6288233832771']
+global.nameowner = 'cilaa'
+global.numberowner = '6287848290396' 
+global.mail = 'cilacantik@gmail.com' 
+global.dana = '088233832771'
+global.pulsa = '088233832771'
+global.gopay = '088233832771'
+global.namebot = 'ℓααcηxz · вσт'
+global.gc = 'https://chat.whatsapp.com/HpgPvbZ4GwjJcHwXIF7l7E'
+global.web = 'https://chat.whatsapp.com/HpgPvbZ4GwjJcHwXIF7l7E'
+global.instagram = 'https://instagram.com/cilaaacnxz?igshid=cW9sZ2JudGVsaTM3'
+global.wm = '© ℓααcηxz · вσт'
 global.watermark = wm
-global.wm2 = '⫹⫺ Beta Bot'
-global.wm3 = '© Lann'
-global.wm4 = 'made by BetaBotz-MD'
-global.wait = '_*Tunggu sedang di proses...*_'
+global.wm2 = '© ℓααcηxz · вσт'
+global.wm3 = '© ℓααcηxz · вσт'
+global.wm4 = 'made witch'
+global.wait = '_*Tunggu...*_'
 global.eror = '_*Server Error*_'
-global.benar = 'Benar ✅\n'
-global.salah = 'Salah ❌\n'
-global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
-global.packname = 'Made with'
-global.author = 'Bot WhatsApp'
+global.benar = 'Benar\n'
+global.salah = 'Salah\n'
+global.stiker_wait = '*Stiker sedang dibuat...*'
+global.packname = 'made with'
+global.author = 'ℓααcηxz · вσт'
 
 //---- image thumbnail 
-global.thumb = 'https://telegra.ph/file/ec75e8bd53238f11603d9.jpg'
+global.thumb = 'https://telegra.ph/file/bfd54d9f55843341d7d30.jpg'
 
 //===> Apikey
 global.lann = 'Your_Key_Here' //isi apikey mu https://api.betabotz.org
